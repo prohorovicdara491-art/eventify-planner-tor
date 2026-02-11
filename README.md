@@ -3,10 +3,8 @@
 ### 3. Макеты интерфейса (сделаны в Paint)
 
 #### Макет 1: Страница входа
-![Вход в приложение](images/login.png)
-
+![Вход в приложение](https://github.com/ваш-логин/my-event-planner/blob/main/images/login.png)
 #### Макет 2: Главный календарь
-![Календарь событий](images/calendar.png)
-
+![Календарь](https://github.com/ваш-логин/my-event-planner/blob/main/images/calendar.png)
 #### Макет 3: Создание события
-![Форма создания события](images/new-event.png)
+![Новое событие](https://github.com/ваш-логин/my-event-planner/blob/main/images/new-event.png)
